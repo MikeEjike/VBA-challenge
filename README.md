@@ -1,3 +1,3 @@
 # VBA-challenge
 
-#Even though I submitted the homework on bootcamp spot, I still have some work to finish on the VBA-challenge.
+#I had some initial trouble with github and pushing my files to it, but hopefully everything is there now. I did not do the bonus VBA challenge because of time. I did send two files of code. I did not know how to send it to github for it to be in a readable format. I sent one by copying and pasting it to Visual Studio Code and saving it that way and I sent the other by exporting it directly from excel. Both codes should be exactly the same and should work. 
