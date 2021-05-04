@@ -1,3 +1,36 @@
-# VBA-challenge
+# VBA-challenge - The VBA of Wall Street
 
-#I had some initial trouble with github and pushing my files to it, but hopefully everything is there now. I did not do the bonus VBA challenge because of time. I did send two files of code. I did not know how to send it to github for it to be in a readable format. I sent one by copying and pasting it to Visual Studio Code and saving it that way and I sent the other by exporting it directly from excel. Both codes should be exactly the same and should work. 
+### Files
+
+* [Test Data](Resources/alphabetical_testing.xlsx) - Used this while developing scripts.
+
+* [Stock Data](Resources/Multiple_year_stock_data.xlsx) - Ran scripts on this data to generate the final report.
+
+### Stock market analyst
+
+![stock Market](Images/stockmarket.jpg)
+
+## Instructions
+
+* Create a script that will loop through all the stocks for one year and output the following information.
+
+  * The ticker symbol.
+
+  * Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
+
+  * The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
+
+  * The total stock volume of the stock.
+
+* Should also have conditional formatting that will highlight positive change in green and negative change in red.
+
+
+![moderate_solution](Images/moderate_solution.png)
+
+### CHALLENGES
+
+1. Solution will also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume".
+
+![hard_solution](Images/hard_solution.png)
+
+2. Make the appropriate adjustments to the VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
